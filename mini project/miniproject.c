@@ -49,4 +49,15 @@ int main() {
     return 0;
 }
 //OUTPUT :-
-//
+
+//Enter first integer: 3
+//Enter second integer: 8
+
+//--- Bitwise Utility Tool ---
+//1. Bitwise AND (&)
+//2. Bitwise OR (|)
+//3. Bitwise XOR (^)
+//4. Left Shift (<<)
+//5. Right Shift (>>)
+//Enter your choice: 5
+//Result: 0
